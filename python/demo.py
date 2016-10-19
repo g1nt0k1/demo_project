@@ -1,3 +1,8 @@
+"""
+demo program of python
+"""
+
+
 print("Hello,world")
 print("こんにちは")
 
